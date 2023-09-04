@@ -1,3 +1,4 @@
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 <img width="230" alt="image" src="https://github.com/sherman-cheung/Vigrid/assets/143981632/099c74a7-e404-4fb7-9929-1ef73b85d95a">
 
 欢迎来到维格里德。
